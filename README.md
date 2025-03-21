@@ -18,3 +18,7 @@ Run the script:
 ./process_monitor.sh
 
 The script will log the process status in real-time to process_monitor.log.
+
+## Log Results Screenshot
+
+![alt text](image.png)
